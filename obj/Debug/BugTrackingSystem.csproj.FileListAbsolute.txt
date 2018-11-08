@@ -1,0 +1,17 @@
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\bin\Debug\BugTracker.exe.config
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\bin\Debug\BugTracker.exe.manifest
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\bin\Debug\BugTracker.application
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\bin\Debug\BugTracker.exe
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\bin\Debug\BugTracker.pdb
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTracker.NewBugForm.resources
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTracker.Login.resources
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTracker.Main.resources
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTracker.OpenBug.resources
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTracker.Properties.Resources.resources
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTrackingSystem.csproj.GenerateResource.cache
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTracker.exe.manifest
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTracker.application
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTrackingSystem.csproj.CopyComplete
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTracker.exe
+C:\Users\james\Downloads\ASEA2-master\Bug Tracker FA\BugTracker\obj\Debug\BugTracker.pdb
